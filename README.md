@@ -1,7 +1,7 @@
 # Online-Examination-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224110009
+# Name:Avanthika.M
+# Date:5/09/2026
 
 
 # AIM:
@@ -37,6 +37,9 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="857" height="737" alt="Screenshot 2026-09-02 184159" src="https://github.com/user-attachments/assets/62703c57-2e7b-41cd-a302-edb7f2d84c21" />
+
+
 
 
 
@@ -59,11 +62,24 @@ Create detailed charts that…
 
 
 
+
+
+<img width="862" height="618" alt="Screenshot 2026-09-02 184308" src="https://github.com/user-attachments/assets/5f877e04-34ad-4738-9569-673fe93a9f56" />
+
+
+
+
 # COMMUNICTION DIAGRAM:
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
+
+
+
+
+<img width="831" height="586" alt="Screenshot 2026-09-02 184427" src="https://github.com/user-attachments/assets/ec8156a4-958a-4752-8632-7b959c3d0a73" />
+
 
 
 
@@ -75,6 +91,10 @@ Package diagrams are structural diagrams used to show the organization and arran
 organization of the layered architecture within any UML classifier, such as a software system.
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
+
+
+<img width="838" height="500" alt="Screenshot 2026-09-02 184511" src="https://github.com/user-attachments/assets/099811fa-2740-47d8-81c2-01680aa6e181" />
+
 
 
 
@@ -97,6 +117,11 @@ Describe the steps performed in a UML use case.
 
 
 
+<img width="857" height="851" alt="Screenshot 2026-09-02 184602" src="https://github.com/user-attachments/assets/260c1673-2862-4f74-a7ba-708d19be4392" />
+
+
+
+
 
 
 # SEQUENCE DIAGRAM
@@ -115,6 +140,11 @@ Represent the details of UML use cases.
 Model the logic of a sophisticated procedure, function, or operation. See how objects and components interact with each other to complete a process.
 
 Plan and understand the detailed functionality of an existing or future scenario.
+
+
+
+<img width="817" height="695" alt="Screenshot 2026-09-02 184636" src="https://github.com/user-attachments/assets/b94099ee-14dd-4c6b-8040-1cd2a060c09f" />
+
 
 
 
